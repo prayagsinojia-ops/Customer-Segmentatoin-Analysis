@@ -15,6 +15,15 @@ This analysis helps businesses improve customer targeting, optimize marketing ca
 - Excel
 - Power BI
 
+## Analysis Notebook
+The customer segmentation and age group analysis were performed using a Jupyter notebook, which is included in the repository for reference.
+-<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/Clustering.ipynb">Analysis Noteboook</a>
+Customer Data Preparation
+Age Group Creation
+Customer Segmentation (Clustering)
+Segment-Level Insights
+
+
 ## Dashboard
 Interactive Power BI dashboards were created to visualize customer segments, spending behavior, and key performance indicators for business decision-making.
 
