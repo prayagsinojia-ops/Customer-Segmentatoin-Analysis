@@ -22,10 +22,10 @@ The customer segmentation and age group analysis were performed using a Jupyter 
 
 Performed Task:<br>
 
-Customer Data Preparation<br>
-Age Group Creation<br>
-Customer Segmentation (Clustering)<br>
-Segment-Level Insights
+- Customer Data Preparation<br>
+- Age Group Creation<br>
+- Customer Segmentation (Clustering)<br>
+- Segment-Level Insights
 
 
 ## Dashboard
