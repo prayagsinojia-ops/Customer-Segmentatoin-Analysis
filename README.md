@@ -21,16 +21,16 @@ Interactive Power BI dashboards were created to visualize customer segments, spe
 The project includes four interactive Power BI dashboards designed to support different business use cases:
 
 - Executive Overview Dashboard  
-  -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/1.png">Dashboard 1</a>
+   -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/1.png">Dashboard 1</a>
 
 - Customer Behavior Dashboard  
-  https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/2.png
+   -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/2.png">Dashboard 2</a>
 
 - Product & category Performance Dashboard  
-  https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/3.png
+   -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/3.png">Dashboard 3</a>
 
 - Demographics & Seasonality Dashboard
-  https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/4.png
+   -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/4.png">Dashboard 4</a>
 
 ## Key Insights
 - High-value customer segments contributed the majority of total revenue.
