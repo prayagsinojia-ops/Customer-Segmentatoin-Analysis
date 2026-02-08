@@ -18,10 +18,10 @@ This analysis helps businesses improve customer targeting, optimize marketing ca
 ## Analysis Notebook
 The customer segmentation and age group analysis were performed using a Jupyter notebook, which is included in the repository for reference.
 <br>
--<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/Clustering.ipynb">Analysis Noteboook</a>
-Customer Data Preparation
-Age Group Creation
-Customer Segmentation (Clustering)
+<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/Clustering.ipynb">Analysis Noteboook</a><br>
+Customer Data Preparation<br>
+Age Group Creation<br>
+Customer Segmentation (Clustering)<br>
 Segment-Level Insights
 
 
@@ -39,8 +39,8 @@ The project includes four interactive Power BI dashboards designed to support di
 - Product & category Performance Dashboard  
    -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/3.png">Dashboard 3</a>
 
-- Demographics & Seasonality Dashboard
-    -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/4.png">Dashboard 4</a>
+- Demographics & Seasonality Dashboard<br>
+   -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/4.png">Dashboard 4</a>
 
 ## Key Insights
 - High-value customer segments contributed the majority of total revenue.
