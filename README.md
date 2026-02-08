@@ -19,6 +19,9 @@ This analysis helps businesses improve customer targeting, optimize marketing ca
 The customer segmentation and age group analysis were performed using a Jupyter notebook, which is included in the repository for reference.
 <br>
 <a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/Clustering.ipynb">Analysis Noteboook</a><br>
+
+Performed Task:<br>
+
 Customer Data Preparation<br>
 Age Group Creation<br>
 Customer Segmentation (Clustering)<br>
