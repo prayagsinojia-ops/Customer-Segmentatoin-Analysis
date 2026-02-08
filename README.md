@@ -6,3 +6,8 @@ The objective of this project is to segment customers based on their purchasing 
 
 ## Dataset Used
 -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/final_customer_segmentation_with_clusters.csv">Dataset</a>
+
+## Tools & Technologies
+- Python
+- Excel
+- Power BI
