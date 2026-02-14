@@ -41,7 +41,9 @@ Interactive Power BI dashboards were created to visualize customer segments, spe
 
 The project includes four interactive Power BI dashboards designed to support different business use cases:
 
-- Executive Overview Dashboard  
+- Executive Overview Dashboard
+- ![Dashboard](1.png)
+
    -<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/1.png">Dashboard 1</a>
 
 - Customer Behavior Dashboard  
