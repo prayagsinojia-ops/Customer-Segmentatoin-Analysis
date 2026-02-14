@@ -61,6 +61,7 @@ The project includes four interactive Power BI dashboards designed to support di
 This project demonstrates how customer segmentation and data analysis can be used to extract meaningful business insights that support strategic marketing and customer management decisions. <br><br>
 
 ## Contact
+
 Aspiring Data Analyst skilled in Python, SQL, Power BI, and Business Analytics. Actively building real-world analytics projects focused on business problem-solving.
 
 Prayag Sinojia <br>
