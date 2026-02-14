@@ -13,14 +13,10 @@ This analysis helps businesses improve customer targeting, optimize marketing ca
 This dataset was provided by Datamites™ as part of a data analytics training program. It contains transactional customer purchase data including demographic details, product categories, payment methods, location, and purchase amounts.
 
 The dataset is designed for performing:
-
-Customer segmentation analysis
-
-Revenue analysis
-
-Behavioral pattern identification
-
-KPI development for business insights
+-Customer segmentation analysis
+-Revenue analysis
+-Behavioral pattern identification
+-KPI development for business insights
 
 ## Tools & Technologies
 - Python
