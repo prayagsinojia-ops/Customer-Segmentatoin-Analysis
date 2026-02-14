@@ -41,16 +41,16 @@ Interactive Power BI dashboards were created to visualize customer segments, spe
 
 The project includes four interactive Power BI dashboards designed to support different business use cases:
 
-- Executive Overview Dashboard
+- ### Executive Overview Dashboard
   ![Dashboard](1.png) <br><br>
 
-- Customer Behavior Dashboard  
+- ### Customer Behavior Dashboard  
   ![Dashboard](2.png) <br><br>
 
-- Product & category Performance Dashboard  
+- ### Product & category Performance Dashboard  
   ![Dashboard](3.png) <br><br>
 
-- Demographics & Seasonality Dashboard<br>
+- ### Demographics & Seasonality Dashboard<br>
   ![Dashboard](4.png) <br><br>
 
 ## Key Insights
