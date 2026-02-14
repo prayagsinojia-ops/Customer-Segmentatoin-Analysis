@@ -53,8 +53,10 @@ The project includes four interactive Power BI dashboards designed to support di
 This project demonstrates how customer segmentation and data analysis can be used to extract meaningful business insights that support strategic marketing and customer management decisions.
 
 ## Contact
-Prayag Sinojia
-data Analyst
--<a href="https://www.linkedin.com/in/prayagsinojiya/">Linkdin</a>
+Prayag Sinojia <br>
+data Analyst <br>
+-<a href="https://www.linkedin.com/in/prayagsinojiya/">prayagsinojiya:- Linkdin</a><br>
+Cnatact No: 97231 00943<br>
+Gmail: prayagsinojia@gmail.com
 
 
