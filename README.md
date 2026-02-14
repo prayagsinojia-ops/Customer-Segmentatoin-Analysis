@@ -68,3 +68,12 @@ Cnatact No: 97231 00943<br>
 Gmail: prayagsinojia@gmail.com
 
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-EDA-orange?logo=jupyter)
+![Project Type](https://img.shields.io/badge/Type-Business%20Analytics-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
+
