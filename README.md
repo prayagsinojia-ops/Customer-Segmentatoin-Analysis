@@ -8,7 +8,19 @@ The objective of this project is to segment customers based on their purchasing 
 This analysis helps businesses improve customer targeting, optimize marketing campaigns, and increase customer lifetime value by understanding different customer segments and their spending patterns.
 
 ## Dataset Used
--<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/final_customer_segmentation_with_clusters.csv">Dataset</a>
+-<a href="https://github.com/prayagsinojia-ops/Customer-Segmentatoin-Analysis/blob/main/final_customer_segmentation_with_clusters.csv">Dataset</a><br>
+
+This dataset was provided by Datamites™ as part of a data analytics training program. It contains transactional customer purchase data including demographic details, product categories, payment methods, location, and purchase amounts.
+
+The dataset is designed for performing:
+
+Customer segmentation analysis
+
+Revenue analysis
+
+Behavioral pattern identification
+
+KPI development for business insights
 
 ## Tools & Technologies
 - Python
