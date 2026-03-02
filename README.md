@@ -13,10 +13,10 @@ The objective of this project is to segment customers based on their purchasing 
 This dataset was provided by Datamites™ as part of a data analytics training program. It contains transactional customer purchase data including demographic details, product categories, payment methods, location, and purchase amounts.
 
 The dataset is designed for performing:<br>
--Customer segmentation analysis<br>
--Revenue analysis<br>
--Behavioral pattern identification<br>
--KPI development for business insights<br><br>
+- Customer segmentation analysis<br>
+- Revenue analysis<br>
+- Behavioral pattern identification<br>
+- KPI development for business insights<br><br>
 
 ## 🛠 Tools Used:
 - Python
