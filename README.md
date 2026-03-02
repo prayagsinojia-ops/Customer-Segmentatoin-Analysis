@@ -68,8 +68,8 @@ Aspiring Data Analyst skilled in Python, SQL, Power BI, and Business Analytics. 
 
 Prayag Sinojia <br>
 data Analyst <br>
-Contact: 97231 00943
-Gmail: prayagsinojia@gmail.com
+Contact: 97231 00943 <br>
+Gmail: prayagsinojia@gmail.com<br>
 prayagsinojiya-Linkdin <br><br>
 
 
